@@ -2,8 +2,6 @@
 
 I am a Data Scientist and AI Engineer with many years of experiences in applying machine learning and deep learning to solve real-world problems both in industry and academia, I am always interested in new opportunities that will allow me to continue to apply and extend my expertise by exploring new areas.
 
-public github account:
-https://github.com/AliaHamwi
 
 <!--
 **AliaHamwi/AliaHamwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
