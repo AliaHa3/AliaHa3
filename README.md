@@ -1,7 +1,8 @@
 ### Hi there , my name is Alia Hamwi👋
 
-I am a Full Stack Data Scientist and AI Engineer with many years of experiences in applying machine learning and deep learning to solve real-world problems both in industry and academia, I am always interested in new opportunities that will allow me to continue to apply and extend my expertise by exploring new areas.
+With a strong foundation in Data and AI Engineering, I bring to the table my expertise in big data and machine learning. My analytical skills have consistently resulted in efficient and reliable solutions. I am known for my superior communication skills, attention to detail, and ability to quickly master new technologies. 
 
+In my previous roles, I have overseen complex projects that significantly enhanced team productivity and client satisfaction. My proficiency in Python, SQL, Java, Shell Bash Programming Languages, Hadoop, Spark, Hive, Dbt, Presto/Trino, Kafka, Databricks and Apache Airflow among others has been instrumental in achieving these results.
 
 <!--
 **AliaHamwi/AliaHamwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
